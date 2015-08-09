@@ -1,6 +1,6 @@
 {
   "name": "sapui5-template",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "sapui5 grunt powered template",
   "main": "index.html",
   "urlprefix": "sampleapp/",
